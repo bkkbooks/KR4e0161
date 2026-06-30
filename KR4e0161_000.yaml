@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0161/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部六
+  hash: sha256:859be96469d41da55102a3ac10450a959c78b164b3aa3213a08844c2a3407181
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0161_WYG_000-1a, image: WYG1266/WYG1266-0645a.png}
+body:
+  text: 竹澗集别集類五明提要臣等謹案竹澗集八卷竹澗奏議四卷明潘希曾撰希曾字仲魯金華人𢎞治壬戌進士官至兵部左侍郎卒贈尚書其文集首載詩四卷次文四卷次奏議四卷末附録墓志小傳等篇希曾官兵科給事中時奏奪太監汪直義男官爵復因災異陳八事皆直指近幸及奉使湖貴二省計處邊儲又以不賂劉瑾矯㫖下獄拷掠除名瑾誅起官復抗疏爭太素殿天鵝房諸役今觀前後所上章奏語皆剴切真摰不為粉飾而深中事理平生雖不以詩文得名而氣體浩瀚沛然有餘亦復具有矩矱非淺中飾貌者可比希曾治河績最著傳稱別有治河録今巳不傳而集中修築沛單長堤諸疏其措置規模猶見一二是固可與明史河渠志互相參考也黃虞稷千頃堂書目載希曾集其目與此本悉合乃嘉靖末長洲黃省曾所校刋云乾隆四十四年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:99f579e4c31f34d68446d0b74e5d4d50bbeacb45bb7981a82ee80a45f8cafc4e
+metadata:
+  title: 竹澗集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:22:51.973218'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4e0161/KR4e0161_000.txt
+hash: sha256:7cfaafc785ee254548c0c2b987784086f7e35d371107bf631213a0cc382d3ffd
